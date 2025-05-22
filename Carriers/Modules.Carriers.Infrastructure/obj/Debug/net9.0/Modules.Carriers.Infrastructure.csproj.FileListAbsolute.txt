@@ -1,0 +1,15 @@
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Infrastructure/bin/Debug/net9.0/Modules.Carriers.Infrastructure.deps.json
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Infrastructure/bin/Debug/net9.0/Modules.Carriers.Infrastructure.dll
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Infrastructure/bin/Debug/net9.0/Modules.Carriers.Infrastructure.pdb
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Infrastructure/bin/Debug/net9.0/Modules.Carriers.Domain.dll
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Infrastructure/bin/Debug/net9.0/Modules.Carriers.Domain.pdb
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Infrastructure/obj/Debug/net9.0/Modules.Carriers.Infrastructure.csproj.AssemblyReference.cache
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Infrastructure/obj/Debug/net9.0/Modules.Carriers.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Infrastructure/obj/Debug/net9.0/Modules.Carriers.Infrastructure.AssemblyInfoInputs.cache
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Infrastructure/obj/Debug/net9.0/Modules.Carriers.Infrastructure.AssemblyInfo.cs
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Infrastructure/obj/Debug/net9.0/Modules.Carriers.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Infrastructure/obj/Debug/net9.0/Modules..C520DACA.Up2Date
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Infrastructure/obj/Debug/net9.0/Modules.Carriers.Infrastructure.dll
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Infrastructure/obj/Debug/net9.0/refint/Modules.Carriers.Infrastructure.dll
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Infrastructure/obj/Debug/net9.0/Modules.Carriers.Infrastructure.pdb
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Infrastructure/obj/Debug/net9.0/ref/Modules.Carriers.Infrastructure.dll

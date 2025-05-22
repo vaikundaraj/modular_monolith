@@ -1,0 +1,15 @@
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Shipments/Modules.Shipments.Infrastructure/bin/Debug/net9.0/Modules.Shipments.Infrastructure.deps.json
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Shipments/Modules.Shipments.Infrastructure/bin/Debug/net9.0/Modules.Shipments.Infrastructure.dll
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Shipments/Modules.Shipments.Infrastructure/bin/Debug/net9.0/Modules.Shipments.Infrastructure.pdb
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Shipments/Modules.Shipments.Infrastructure/bin/Debug/net9.0/Modules.Shipments.Domain.dll
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Shipments/Modules.Shipments.Infrastructure/bin/Debug/net9.0/Modules.Shipments.Domain.pdb
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Shipments/Modules.Shipments.Infrastructure/obj/Debug/net9.0/Modules.Shipments.Infrastructure.csproj.AssemblyReference.cache
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Shipments/Modules.Shipments.Infrastructure/obj/Debug/net9.0/Modules.Shipments.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Shipments/Modules.Shipments.Infrastructure/obj/Debug/net9.0/Modules.Shipments.Infrastructure.AssemblyInfoInputs.cache
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Shipments/Modules.Shipments.Infrastructure/obj/Debug/net9.0/Modules.Shipments.Infrastructure.AssemblyInfo.cs
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Shipments/Modules.Shipments.Infrastructure/obj/Debug/net9.0/Modules.Shipments.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Shipments/Modules.Shipments.Infrastructure/obj/Debug/net9.0/Modules..9FE28C84.Up2Date
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Shipments/Modules.Shipments.Infrastructure/obj/Debug/net9.0/Modules.Shipments.Infrastructure.dll
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Shipments/Modules.Shipments.Infrastructure/obj/Debug/net9.0/refint/Modules.Shipments.Infrastructure.dll
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Shipments/Modules.Shipments.Infrastructure/obj/Debug/net9.0/Modules.Shipments.Infrastructure.pdb
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Shipments/Modules.Shipments.Infrastructure/obj/Debug/net9.0/ref/Modules.Shipments.Infrastructure.dll

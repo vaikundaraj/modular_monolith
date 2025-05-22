@@ -1,0 +1,12 @@
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Common/Modules.Common.Features/bin/Debug/net9.0/Modules.Common.Features.deps.json
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Common/Modules.Common.Features/bin/Debug/net9.0/Modules.Common.Features.dll
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Common/Modules.Common.Features/bin/Debug/net9.0/Modules.Common.Features.pdb
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Common/Modules.Common.Features/obj/Debug/net9.0/Modules.Common.Features.csproj.AssemblyReference.cache
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Common/Modules.Common.Features/obj/Debug/net9.0/Modules.Common.Features.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Common/Modules.Common.Features/obj/Debug/net9.0/Modules.Common.Features.AssemblyInfoInputs.cache
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Common/Modules.Common.Features/obj/Debug/net9.0/Modules.Common.Features.AssemblyInfo.cs
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Common/Modules.Common.Features/obj/Debug/net9.0/Modules.Common.Features.csproj.CoreCompileInputs.cache
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Common/Modules.Common.Features/obj/Debug/net9.0/Modules.Common.Features.dll
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Common/Modules.Common.Features/obj/Debug/net9.0/refint/Modules.Common.Features.dll
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Common/Modules.Common.Features/obj/Debug/net9.0/Modules.Common.Features.pdb
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Common/Modules.Common.Features/obj/Debug/net9.0/ref/Modules.Common.Features.dll

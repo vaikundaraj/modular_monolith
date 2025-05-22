@@ -1,0 +1,11 @@
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Domain/bin/Debug/net9.0/Modules.Carriers.Domain.deps.json
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Domain/bin/Debug/net9.0/Modules.Carriers.Domain.dll
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Domain/bin/Debug/net9.0/Modules.Carriers.Domain.pdb
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Domain/obj/Debug/net9.0/Modules.Carriers.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Domain/obj/Debug/net9.0/Modules.Carriers.Domain.AssemblyInfoInputs.cache
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Domain/obj/Debug/net9.0/Modules.Carriers.Domain.AssemblyInfo.cs
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Domain/obj/Debug/net9.0/Modules.Carriers.Domain.csproj.CoreCompileInputs.cache
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Domain/obj/Debug/net9.0/Modules.Carriers.Domain.dll
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Domain/obj/Debug/net9.0/refint/Modules.Carriers.Domain.dll
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Domain/obj/Debug/net9.0/Modules.Carriers.Domain.pdb
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Carriers/Modules.Carriers.Domain/obj/Debug/net9.0/ref/Modules.Carriers.Domain.dll

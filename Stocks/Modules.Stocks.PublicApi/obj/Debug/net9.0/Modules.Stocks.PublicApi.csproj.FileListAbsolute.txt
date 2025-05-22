@@ -1,0 +1,11 @@
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Stocks/Modules.Stocks.PublicApi/bin/Debug/net9.0/Modules.Stocks.PublicApi.deps.json
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Stocks/Modules.Stocks.PublicApi/bin/Debug/net9.0/Modules.Stocks.PublicApi.dll
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Stocks/Modules.Stocks.PublicApi/bin/Debug/net9.0/Modules.Stocks.PublicApi.pdb
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Stocks/Modules.Stocks.PublicApi/obj/Debug/net9.0/Modules.Stocks.PublicApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Stocks/Modules.Stocks.PublicApi/obj/Debug/net9.0/Modules.Stocks.PublicApi.AssemblyInfoInputs.cache
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Stocks/Modules.Stocks.PublicApi/obj/Debug/net9.0/Modules.Stocks.PublicApi.AssemblyInfo.cs
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Stocks/Modules.Stocks.PublicApi/obj/Debug/net9.0/Modules.Stocks.PublicApi.csproj.CoreCompileInputs.cache
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Stocks/Modules.Stocks.PublicApi/obj/Debug/net9.0/Modules.Stocks.PublicApi.dll
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Stocks/Modules.Stocks.PublicApi/obj/Debug/net9.0/refint/Modules.Stocks.PublicApi.dll
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Stocks/Modules.Stocks.PublicApi/obj/Debug/net9.0/Modules.Stocks.PublicApi.pdb
+/Users/raj/Repos/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Stocks/Modules.Stocks.PublicApi/obj/Debug/net9.0/ref/Modules.Stocks.PublicApi.dll
