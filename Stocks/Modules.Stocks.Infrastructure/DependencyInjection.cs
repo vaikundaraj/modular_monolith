@@ -12,7 +12,7 @@ public static class DependencyInjection
         var postgresConnectionString = configuration.GetConnectionString("Postgres");
 
         services.AddDbContext<StocksDbContext>(x => x
-            .EnableSensitiveDataLogging()
+            //.EnableSensitiveDataLogging()
             .UseNpgsql(postgresConnectionString, npgsqlOptions => 
                 npgsqlOptions.MigrationsHistoryTable(DbConsts.MigrationHistoryTableName, DbConsts.StocksSchemaName))
             .UseSnakeCaseNamingConvention()

@@ -1,0 +1,39 @@
+# .NET build artifacts
+**/bin/
+**/obj/
+**/out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# Rider settings
+.idea/
+
+# Visual Studio for Mac
+.vscode/
+*.userprefs
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose*
+Dockerfile*
+
+# Node modules (if using JS/TS)
+node_modules/
+
+# Others
+*.dbmdl
+*.jfm
+*.vs/
