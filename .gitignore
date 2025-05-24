@@ -10,13 +10,13 @@
 *.sln.docstates
 
 # VS Code settings
-.vscode/
+#.vscode/
 
 # Rider settings
 .idea/
 
 # Visual Studio for Mac
-.vscode/
+#.vscode/
 *.userprefs
 
 # Logs
