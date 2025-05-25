@@ -29,6 +29,7 @@ Thumbs.db
 # Docker
 docker-compose*
 Dockerfile*
+docker_data/
 
 # Node modules (if using JS/TS)
 node_modules/

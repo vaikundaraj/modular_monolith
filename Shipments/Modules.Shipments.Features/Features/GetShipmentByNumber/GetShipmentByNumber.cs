@@ -9,6 +9,7 @@ using Microsoft.Extensions.Logging;
 using Modules.Shipments.Features.Features.CreateShipment;
 using Modules.Shipments.Features.Features.Shared.Responses;
 using Modules.Shipments.Infrastructure.Database;
+using StackExchange.Redis.Extensions.Core.Abstractions;
 
 namespace Modules.Shipments.Features.Features.GetShipmentByNumber;
 
@@ -33,12 +34,21 @@ internal sealed record GetShipmentByNumberQuery(string ShipmentNumber)
 	: IRequest<ShipmentResponse?>;
 
 internal sealed class GetShipmentByNumberQueryHandler(
-	ShipmentsDbContext dbContext,
+	ShipmentsDbContext dbContext, IRedisDatabase redisDatabase,
 	ILogger<GetShipmentByNumberQueryHandler> logger)
 	: IRequestHandler<GetShipmentByNumberQuery, ShipmentResponse?>
 {
 	public async Task<ShipmentResponse?> Handle(GetShipmentByNumberQuery request, CancellationToken cancellationToken)
 	{
+
+		var cached = await redisDatabase.GetAsync<ShipmentResponse>("shipment:" + request.ShipmentNumber);
+
+		if (cached is not null)
+		{
+			logger.LogDebug("Shipment with number {ShipmentNumber} found in cache", request.ShipmentNumber);
+			return cached;
+		}
+
 		var shipment = await dbContext.Shipments
 			.Include(x => x.Items)
 			.FirstOrDefaultAsync(x => x.Number == request.ShipmentNumber, cancellationToken);
@@ -50,6 +60,7 @@ internal sealed class GetShipmentByNumberQueryHandler(
 		}
 
 		var response = shipment.MapToResponse();
+		await redisDatabase.AddAsync("shipment:" + request.ShipmentNumber, response, TimeSpan.FromMinutes(5));
 		return response;
 	}
 }

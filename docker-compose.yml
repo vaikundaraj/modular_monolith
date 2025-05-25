@@ -28,6 +28,34 @@ services:
     networks:
       - docker-web
 
+  redis:
+    image: redis/redis-stack:latest
+    container_name: redis
+    ports:
+      - "6379:6379"
+      - "8001:8001"
+    environment:
+      - REDIS_PASSWORD=admin
+      - REDISPORT=6379
+      - REDISSTACK_ENABLED=true
+    restart: always
+    networks:
+      - docker-web
+  
+  # redisinsight:
+  #   image: redis/redisinsight:latest
+  #   container_name: redisinsight
+  #   ports:
+  #     - "5540:5540"
+  #   environment:
+  #     - RIPORT=${RIPORT:-5540}
+  #     - RITRUSTEDORIGINS=http://localhost:9000
+  #   depends_on:
+  #     - redis
+  #   restart: always
+  #   networks:
+  #     - docker-web
+
 networks:
   docker-web:
     driver: bridge

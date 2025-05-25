@@ -11,12 +11,19 @@ using Modules.Shipments.Infrastructure.Database;
 using Modules.Stocks.Features;
 using Modules.Stocks.Infrastructure;
 using Modules.Stocks.Infrastructure.Database;
+using StackExchange.Redis.Extensions.Core.Configuration;
+using StackExchange.Redis.Extensions.System.Text.Json;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.AddHostLogging();
 
 builder.Services.AddWebHostInfrastructure();
+
+builder.Services.AddStackExchangeRedisExtensions<SystemTextJsonSerializer>(new RedisConfiguration
+{
+    ConnectionString = builder.Configuration.GetConnectionString("Redis") ?? throw new InvalidOperationException("Redis connection string is not configured."),
+});
 
 builder.Services.AddShipmentsModule(builder.Configuration)
     .AddShipmentsInfrastructure(builder.Configuration);

@@ -22,6 +22,8 @@
         <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.4" />
         <PackageReference Include="Serilog.AspNetCore" Version="9.0.0" />
         <PackageReference Include="Serilog.Sinks.Console" Version="6.0.0" />
+        <!-- <PackageReference Include="StackExchange.Redis.Extensions.AspNetCore" Version="11.0.0" /> -->
+        <PackageReference Include="StackExchange.Redis.Extensions.System.Text.Json" Version="11.0.0" />
         <PackageReference Include="Swashbuckle.AspNetCore" Version="8.0.0" />
     </ItemGroup>
 
