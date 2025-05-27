@@ -42,19 +42,25 @@ services:
     networks:
       - docker-web
   
-  # redisinsight:
-  #   image: redis/redisinsight:latest
-  #   container_name: redisinsight
-  #   ports:
-  #     - "5540:5540"
-  #   environment:
-  #     - RIPORT=${RIPORT:-5540}
-  #     - RITRUSTEDORIGINS=http://localhost:9000
-  #   depends_on:
-  #     - redis
-  #   restart: always
-  #   networks:
-  #     - docker-web
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus
+    volumes:
+      - ./docker_data/prometheus.yml:/etc/prometheus/prometheus.yml
+    ports:
+      - "9090:9090"
+    networks:
+      - docker-web
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    ports:
+      - "3000:3000"
+    depends_on:
+      - prometheus
+    networks:
+      - docker-web
 
 networks:
   docker-web:
